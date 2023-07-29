@@ -1,3 +1,14 @@
+/*********************************************************************************
+*  WEB422 – Assignment 06
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
+*  assignment has been copied manually or electronically from any other source (including web sites) or 
+*  distributed to other students.
+* 
+*  Name: Samrath Singh Sandhu  Student ID: 168622215   Date: 29/07/2023 (dd/mm/yyyy)
+*
+*
+********************************************************************************/ 
+
 const express = require('express');
 const cors = require("cors");
 const dotenv = require("dotenv");
